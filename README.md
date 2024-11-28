@@ -3,7 +3,7 @@
 Some text in README file
 And some documentation
 
-# part 1
-# part 2
-# part 3
+# Part 1
+# Part 2
+# Part 3
 
